@@ -1,0 +1,3 @@
+{
+    "pandoc.pdfOptString": "--defaults InformalReport.yaml --metadata-file Resources/metadata.yaml" 
+}

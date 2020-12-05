@@ -1,0 +1,18 @@
+author: Elijah Rose (elirose)
+instructor: Nelson
+
+course:
+  title: EE426
+  name: Control Systems - AW
+logo:
+  organization: Logo-UAB-ECE
+  author: Logo-Seraph
+
+link:
+  organization: https://www.uab.edu/home/
+  course: http://catalog.uab.edu/search/?P=EE%20498
+  author: https://github.com/Seraphendipity
+
+titlepage: true
+toc-own-page: true
+header-includes: \usepackage{pdfpages}
